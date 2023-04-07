@@ -1,0 +1,36 @@
+Zimbra - 
+
+Zimbra is open source email solution. It not only provide email solution but also provide support productivity tools, much needed in any industry. It can deploy in small, medium and large scale businesses. Security and complinace is one of fotre of this product. 
+
+As open source, you have to deploy the software in public cloud or on-premise environment. You can go with paid version as well to get additional benefit. 
+
+Zimbra provide SaaS based email solution to customer worldwide. I hope you are exicted to know more on Zimbra. Today my foucus will be more on techical aspect of Zimbra so anyone can make their hands dirty. Zimbra product can be deployed in Cloud, on-premise and Hybrid mode. 
+
+Under Zimbra partnership, your company can become reseller, hosting provider and service partner if you qualify. You get training and direct support with sales and Engineering team. Even though cost of Zimbra email solution is less than other market players, you will get good margins and incentives for being partner.
+
+With Zimbra migration tool, audriga, you can migrate from on-premise email solution like exchange and Lotus notes. Remember, migration tool comes with its own limitation. It does not do end-to-end migration. Audrigo is self-service migration tool. 
+
+Zimbra open source edition comes with limitation and best suitable for small businesses. 
+For medium and large businesses, it is recommended to go with network edition, it is paid .Trail version is limited to 60 days with limited email users. 
+
+Zimbra open source edition comes with two plans
+1. Open source + Zimbra Suite Plus 
+2. Open source 
+
+Zimbra Network edition, also called collaboration suite, comes with two plans
+1. Professional
+2. Standard
+
+If you want to know the difference between edition and plans, let me know, I will share. It is available on Zimbra website. 
+
+
+
+
+
+Zimbra comes with single server or multi-server installation. With single servers, all below components are installed on single server.
+
+
+
+
+  
+
